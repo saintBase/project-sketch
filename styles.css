@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-auto-rows: 25px;
+    
+
+}
